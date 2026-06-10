@@ -1,0 +1,6 @@
+play = "Play"
+download = "Download"
+not_found = "ROM not found"
+emulator_missing = "Emulator not found"
+no_internet = "No internet connection"
+downloading = "Downloading..."

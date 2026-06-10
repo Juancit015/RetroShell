@@ -1,0 +1,11 @@
+[[console]]
+id            = "gb"
+name          = "Game Boy"
+emulator_bin  = "mgba"
+emulator_path = "emulators/mgba.AppImage"
+min_version   = "0.10.0"
+rom_ext       = ["gb"]
+catalog       = "data/gb"
+covers        = "covers/gb"
+has_catalog   = true
+extra_args    = []

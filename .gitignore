@@ -1,0 +1,8 @@
+/target
+roms/
+emulators/
+covers/
+*.gb
+*.gbc
+*.gba
+*.zip
